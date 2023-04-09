@@ -2,7 +2,8 @@
 # Temple of Pythons
 
 Temple of Pythons est un petit jeu de choix en Python. Le joueur doit choisir entre deux portes, l'une contenant une récompense et l'autre des pythons qui l'attaqueront. Le jeu continue tant que le joueur choisit la bonne porte. Si le joueur choisit la mauvaise porte, il perd.
-Comment jouer
+
+## Comment jouer
 
     Ouvrez un terminal et lancez Python 3.
     Exécutez le fichier TempleOfPythons.py en tapant python3 TempleOfPythons.py.
